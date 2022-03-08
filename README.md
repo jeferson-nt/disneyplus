@@ -29,7 +29,7 @@
 
 ###  📎 Recursos
 
-- [x] Apresentação dos valores dos Planos
+- [x] Apresentação da Promoção contratual
 - [x] Degustação de teste Grátis 
 - [x] Menu Entrar
 - 
