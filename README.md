@@ -62,6 +62,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML5
 - CSS3
 
+### ⚖ Direitos
+
+Todos direitos são reservados a Disney e ao The Movie Database.
+
 ###  📝 Licença
 
 Esse projeto está sob a licença MIT.
