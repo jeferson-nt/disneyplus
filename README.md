@@ -29,10 +29,10 @@
 
 ###  📎 Recursos
 
-- [x] Apresentação dos valores dos Planos
+- [x] Apresentação da Promoção contratual
 - [x] Degustação de teste Grátis 
 - [x] Menu Entrar
-- 
+
 
 <h6>** Aplicação apenas Web</h6>
 
@@ -40,8 +40,8 @@
 
 A aplicação consiste na página de entrada do Dinsey Plus.
 
-###  ✅ Demonstração
-<img src="https://github.com/jeferson-nt/disneyplus/blob/master/img/demostracao.png"/>
+<!--###  ✅ Demonstração 
+<img src="https://github.com/jeferson-nt/disneyplus/blob/master/img/demostracao.png"/> -->
 
 ###  ⚙ Pré-requisitos
 
