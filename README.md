@@ -32,7 +32,7 @@
 - [x] Apresentação da Promoção contratual
 - [x] Degustação de teste Grátis 
 - [x] Menu Entrar
-- 
+
 
 <h6>** Aplicação apenas Web</h6>
 
