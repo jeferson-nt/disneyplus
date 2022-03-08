@@ -40,8 +40,8 @@
 
 A aplicação consiste na página de entrada do Dinsey Plus.
 
-###  ✅ Demonstração
-<img src="https://github.com/jeferson-nt/disneyplus/blob/master/img/demostracao.png"/>
+<!--###  ✅ Demonstração 
+<img src="https://github.com/jeferson-nt/disneyplus/blob/master/img/demostracao.png"/> -->
 
 ###  ⚙ Pré-requisitos
 
