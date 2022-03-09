@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="#-features">Recursos</a>     |    
+  <a href="#-recursos">Recursos</a>     |    
   <a href="#-pré-requisitos">Pré-Requisitos</a>     |    
   <a href="#-rodando-a-aplicação-web">Frontend</a>     |    
   <a href="#-tecnologias">Tecnologias</a>     |    
