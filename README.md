@@ -38,7 +38,7 @@
 
 ###  💻 Projeto
 
-A aplicação consiste na página de entrada do Dinsey Plus.
+A aplicação consiste na página de entrada do Disney Plus.
 
 ###  ✅ Demonstração 
 <img src="https://github.com/jeferson-nt/disneyplus/blob/master/img/demonstracao.png"/> 
