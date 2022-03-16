@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-   Disney Plus
+   Clone Disney Plus
 </h1>
 
 <p align="center">Aplicação Básica para aprimorar os conhecimentos em HTML e CSS </p>
